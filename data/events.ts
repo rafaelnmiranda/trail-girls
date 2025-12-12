@@ -15,7 +15,7 @@ export const proximosEncontros: Evento[] = [
     local: 'Parque da Cantareira, Núcleo Pedra Grande',
     data: '2025-01-01',
     descricao: '',
-    imagem: '/images/trailgirls/encontros/encontro-generico-1.jpg',
+    imagem: '/images/trailgirls/encontros/encontro-parque-cantareira.jpg',
     linkInscricao: 'https://sprinta.com.br',
   },
 ]
@@ -37,7 +37,7 @@ export const edicoesAnteriores: EdicaoAnterior[] = [
         local: 'Floresta da Tijuca, Rio de Janeiro',
         data: '2025-01-01',
         descricao: '',
-        imagem: '/images/trailgirls/encontros/encontro-generico-1.jpg',
+        imagem: '/images/trailgirls/encontros/encontro-floresta-tijuca.jpg',
       },
       {
         id: 'e2025-2',
@@ -45,7 +45,7 @@ export const edicoesAnteriores: EdicaoAnterior[] = [
         local: 'Joanópolis, SP',
         data: '2025-01-01',
         descricao: '',
-        imagem: '/images/trailgirls/encontros/encontro-generico-2.jpg',
+        imagem: '/images/trailgirls/encontros/encontro-joanopolis.jpg',
       },
       {
         id: 'e2025-3',
@@ -53,7 +53,7 @@ export const edicoesAnteriores: EdicaoAnterior[] = [
         local: 'Prainha Branca, Guarujá',
         data: '2025-01-01',
         descricao: '',
-        imagem: '/images/trailgirls/encontros/encontro-generico-1.jpg',
+        imagem: '/images/trailgirls/encontros/encontro-prainha-branca.jpg',
       },
       {
         id: 'e2025-4',
@@ -61,7 +61,7 @@ export const edicoesAnteriores: EdicaoAnterior[] = [
         local: 'Pedra do Om, Monteiro Lobato',
         data: '2025-01-01',
         descricao: '',
-        imagem: '/images/trailgirls/encontros/encontro-generico-2.jpg',
+        imagem: '/images/trailgirls/encontros/encontro-pedra-om.jpg',
       },
     ],
   },
@@ -75,7 +75,7 @@ export const edicoesAnteriores: EdicaoAnterior[] = [
         local: 'Pedra Grande de Atibaia',
         data: '2024-01-01',
         descricao: '',
-        imagem: '/images/trailgirls/encontros/encontro-generico-1.jpg',
+        imagem: '/images/trailgirls/encontros/encontro-pedra-grande-atibaia.jpg',
       },
       {
         id: 'e2024-2',
@@ -105,7 +105,7 @@ export const edicoesAnteriores: EdicaoAnterior[] = [
         local: 'Guarulhos, São Paulo',
         data: '2023-01-01',
         descricao: '',
-        imagem: '/images/trailgirls/encontros/encontro-generico-1.jpg',
+        imagem: '/images/trailgirls/encontros/encontro-guarulhos.jpg',
       },
       {
         id: 'e2023-2',
@@ -257,7 +257,7 @@ export const edicoesAnteriores: EdicaoAnterior[] = [
         local: 'Pico do Urubu, Mogi das Cruzes',
         data: '2019-01-01',
         descricao: '',
-        imagem: '/images/trailgirls/encontros/encontro-generico-1.jpg',
+        imagem: '/images/trailgirls/encontros/encontro-pico-urubu.jpg',
       },
       {
         id: 'e2019-4',
@@ -265,7 +265,7 @@ export const edicoesAnteriores: EdicaoAnterior[] = [
         local: 'Fazenda Off Road, Guarulhos',
         data: '2019-01-01',
         descricao: '',
-        imagem: '/images/trailgirls/encontros/encontro-generico-2.jpg',
+        imagem: '/images/trailgirls/encontros/encontro-guarulhos.jpg',
       },
       {
         id: 'e2019-5',
@@ -273,7 +273,7 @@ export const edicoesAnteriores: EdicaoAnterior[] = [
         local: 'Pedra Grande, Atibaia',
         data: '2019-01-01',
         descricao: '',
-        imagem: '/images/trailgirls/encontros/encontro-generico-1.jpg',
+        imagem: '/images/trailgirls/encontros/encontro-pedra-grande-atibaia.jpg',
       },
     ],
   },
