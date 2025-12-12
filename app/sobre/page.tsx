@@ -75,7 +75,7 @@ export default function Sobre() {
                 transition={{ duration: 0.6, delay: index * 0.2 }}
                 className="bg-white rounded-lg shadow-md overflow-hidden"
               >
-                <div className="relative h-64 w-full">
+                <div className="relative aspect-square w-full">
                   <Image
                     src={fundadora.imagem}
                     alt={fundadora.nome}

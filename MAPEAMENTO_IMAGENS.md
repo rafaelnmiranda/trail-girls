@@ -99,12 +99,12 @@ public/
 ### `public/images/trailgirls/fundadoras/tamiris-monteiro.jpg`
 - **Uso**: Seção "Sobre" - Bio da fundadora Tamiris Monteiro
 - **Descrição**: Foto da Tamiris (pode ser em trilha, correndo, ou retrato)
-- **Dimensões sugeridas**: 600x600px (quadrado) ou 800x600px (4:3)
+- **Dimensões sugeridas**: 600x600px (quadrado) - **Formato obrigatório: quadrado**
 
 ### `public/images/trailgirls/fundadoras/ana-pagiossi.jpg`
 - **Uso**: Seção "Sobre" - Bio da fundadora Ana Pagiossi
 - **Descrição**: Foto da Ana (pode ser em trilha, correndo, ou retrato)
-- **Dimensões sugeridas**: 600x600px (quadrado) ou 800x600px (4:3)
+- **Dimensões sugeridas**: 600x600px (quadrado) - **Formato obrigatório: quadrado**
 
 ---
 
