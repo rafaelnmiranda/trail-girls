@@ -60,3 +60,4 @@ Use `bg-trail-pink-600`, `text-trail-pink-600`, etc.
 
 O site é mobile-first e totalmente responsivo. Teste em diferentes tamanhos de tela!
 
+

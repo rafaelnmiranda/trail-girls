@@ -46,7 +46,7 @@ export default function Contato() {
               Fale conosco diretamente pelo WhatsApp. Respondemos o mais rápido possível!
             </p>
             <Link
-              href="https://wa.me/5511999999999"
+              href="https://wa.me/5511981037404"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-8 py-3 bg-green-500 text-white font-semibold rounded-lg hover:bg-green-600 transition-colors"

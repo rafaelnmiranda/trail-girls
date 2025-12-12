@@ -46,3 +46,4 @@ export default function CardProduto({ produto, index = 0 }: CardProdutoProps) {
   )
 }
 
+

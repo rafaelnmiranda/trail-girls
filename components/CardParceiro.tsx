@@ -66,3 +66,4 @@ export default function CardParceiro({ parceiro, index = 0, tipo = 'prova' }: Ca
   )
 }
 
+

@@ -11,15 +11,6 @@ interface CardEventoProps {
 }
 
 export default function CardEvento({ evento, index = 0 }: CardEventoProps) {
-  const formatDate = (dateString: string) => {
-    const date = new Date(dateString)
-    return date.toLocaleDateString('pt-BR', {
-      day: 'numeric',
-      month: 'long',
-      year: 'numeric',
-    })
-  }
-
   return (
     <motion.div
       initial={{ opacity: 0, y: 20 }}
@@ -37,14 +28,7 @@ export default function CardEvento({ evento, index = 0 }: CardEventoProps) {
         />
       </div>
       <div className="p-6">
-        <h3 className="text-xl font-bold text-black mb-2">{evento.nome}</h3>
-        <p className="text-gray-600 mb-2">
-          <span className="font-semibold">Local:</span> {evento.local}
-        </p>
-        <p className="text-gray-600 mb-4">
-          <span className="font-semibold">Data:</span> {formatDate(evento.data)}
-        </p>
-        <p className="text-gray-700 mb-4">{evento.descricao}</p>
+        <h3 className="text-xl font-bold text-black mb-4">{evento.local}</h3>
         {evento.linkInscricao && (
           <Link
             href={evento.linkInscricao}
@@ -59,4 +43,5 @@ export default function CardEvento({ evento, index = 0 }: CardEventoProps) {
     </motion.div>
   )
 }
+
 

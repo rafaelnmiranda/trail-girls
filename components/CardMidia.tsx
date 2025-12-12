@@ -67,3 +67,4 @@ export default function CardMidia({ midia, index = 0 }: CardMidiaProps) {
   )
 }
 
+

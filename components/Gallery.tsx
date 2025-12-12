@@ -32,3 +32,4 @@ export default function Gallery({ images, alt = 'Galeria de imagens' }: GalleryP
   )
 }
 
+

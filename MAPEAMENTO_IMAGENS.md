@@ -236,3 +236,4 @@ public/
 
 Se você adicionar novas imagens que não estão neste mapeamento, atualize este documento para manter a referência atualizada.
 
+

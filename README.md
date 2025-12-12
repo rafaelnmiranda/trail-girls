@@ -198,3 +198,4 @@ Para dúvidas sobre o projeto, consulte a documentação do Next.js ou entre em 
 ---
 
 **Desenvolvido com ❤️ para o Trail Girls**
+

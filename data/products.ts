@@ -14,7 +14,7 @@ export const produtos: Produto[] = [
     descricao: 'Camiseta 100% algodão com estampa exclusiva do coletivo. Disponível em vários tamanhos.',
     imagem: '/images/trailgirls/produtos/produto-camiseta.jpg',
     preco: 'R$ 79,90',
-    linkWhatsApp: 'https://wa.me/5511999999999?text=Quero%20comprar%20a%20Camiseta%20Trail%20Girls',
+    linkWhatsApp: 'https://wa.me/5511981037404?text=Quero%20comprar%20a%20Camiseta%20Trail%20Girls',
   },
   {
     id: '2',
@@ -22,7 +22,7 @@ export const produtos: Produto[] = [
     descricao: 'Viseira esportiva com logo bordado. Proteção UV e ajuste confortável.',
     imagem: '/images/trailgirls/produtos/produto-viseira.jpg',
     preco: 'R$ 45,00',
-    linkWhatsApp: 'https://wa.me/5511999999999?text=Quero%20comprar%20a%20Viseira%20Trail%20Girls',
+    linkWhatsApp: 'https://wa.me/5511981037404?text=Quero%20comprar%20a%20Viseira%20Trail%20Girls',
   },
   {
     id: '3',
@@ -30,7 +30,7 @@ export const produtos: Produto[] = [
     descricao: 'Bandana multifuncional em tecido técnico. Perfeita para trilhas e corridas.',
     imagem: '/images/trailgirls/produtos/produto-bandana.jpg',
     preco: 'R$ 35,00',
-    linkWhatsApp: 'https://wa.me/5511999999999?text=Quero%20comprar%20a%20Bandana%20Trail%20Girls',
+    linkWhatsApp: 'https://wa.me/5511981037404?text=Quero%20comprar%20a%20Bandana%20Trail%20Girls',
   },
   {
     id: '4',
@@ -38,7 +38,8 @@ export const produtos: Produto[] = [
     descricao: 'Regata esportiva em tecido dry-fit. Ideal para treinos e competições.',
     imagem: '/images/trailgirls/produtos/produto-regata.jpg',
     preco: 'R$ 89,90',
-    linkWhatsApp: 'https://wa.me/5511999999999?text=Quero%20comprar%20a%20Regata%20Trail%20Girls',
+    linkWhatsApp: 'https://wa.me/5511981037404?text=Quero%20comprar%20a%20Regata%20Trail%20Girls',
   },
 ]
+
 
